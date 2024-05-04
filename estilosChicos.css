@@ -1,0 +1,68 @@
+@media only screen and (max-width: 1749px){
+    body{
+        
+        background: url(https://us.123rf.com/450wm/bunphot001/bunphot0012201/bunphot001220100457/180585590-color-blanco-y-gris-abstracto-fondo-de-diseño-moderno-con-forma-geométrica-ilustración.jpg?ver=6);
+    }
+
+    a:hover{
+        font-size: 30px;
+        color: white;
+    }
+    .imagen{
+        height: 30%;
+        width: 60%;
+    }
+    
+    .textoBase{
+        font-size: 25px;
+        text-align: justify;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    .video{
+        height: 60%;
+        width: 90%;
+        border: 3px solid #0077ff;
+        display: flex;
+        justify-content: center;
+    }
+    .invitacion{
+        font-size: 10px;
+        text-align: center;
+    }
+    
+    #pie{
+        text-align: center;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 5px;
+    }
+    
+    #titulo{
+        text-align: center;
+        font-size: 40px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    
+    .menu{
+        text-align: left;
+        list-style-type: none;
+    }
+    a{
+        text-decoration: none;
+        color: #583e05;
+        font-size: 20px;
+    }
+    
+    .textoImagen{
+        border: 2px outset #8e430271; 
+        width: 100%;  
+    }
+    .videoDiv{
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        justify-content: center;
+    }
+
+}
+

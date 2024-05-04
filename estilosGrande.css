@@ -1,0 +1,73 @@
+@media only screen and (max-width: 4000px) and (min-width: 1750px){
+    body{
+        background-color: rgb(242, 174, 255);
+        
+    }
+    
+    .formulario{
+        width: 100%;
+        border: 2px solid black;
+        background-color: #f9fafb;
+    }
+
+    a:hover{
+        font-size: 50px;
+        color: white;
+    }
+
+    .imagen{
+        height: 500px;
+        width: 1000px;
+    }
+    
+    .textoBase{
+        font-size: 30px;
+        text-align: justify;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    .video{
+        height: 600px;
+        width: 900px;
+        border: 3px solid #0077ff;
+        display: flex;
+        justify-content: center;
+    }
+    .invitacion{
+        font-size: 20px;
+        text-align: center;
+    }
+    
+    #pie{
+        text-align: center;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 25px;
+    }
+    
+    #titulo{
+        text-align: center;
+        font-size: 45px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    
+    .menu{
+        text-align: center;
+        list-style-type: none;
+    }
+    a{
+        text-decoration: none;
+        color: #583e05;
+        font-size: 30px;
+    }
+    
+    .textoImagen{
+        border: 5px outset #8e430271;   
+    }
+    .videoDiv{
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        justify-content: center;
+    }
+    
+}
